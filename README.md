@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0492-construct-the-rectangle) |
 | [0593-valid-square](https://github.com/ArPriCode/Leetcode_B/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
