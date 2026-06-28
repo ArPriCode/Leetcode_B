@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/ArPriCode/Leetcode_B/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0447-number-of-boomerangs](https://github.com/ArPriCode/Leetcode_B/tree/master/0447-number-of-boomerangs) |
+| [0458-poor-pigs](https://github.com/ArPriCode/Leetcode_B/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0492-construct-the-rectangle) |
 | [0593-valid-square](https://github.com/ArPriCode/Leetcode_B/tree/master/0593-valid-square) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/ArPriCode/Leetcode_B/tree/master/0640-solve-the-equation) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/ArPriCode/Leetcode_B/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
