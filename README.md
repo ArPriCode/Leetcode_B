@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0640-solve-the-equation](https://github.com/ArPriCode/Leetcode_B/tree/master/0640-solve-the-equation) |
 | [1189-maximum-number-of-balloons](https://github.com/ArPriCode/Leetcode_B/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
 | [1093-statistics-from-a-large-sample](https://github.com/ArPriCode/Leetcode_B/tree/master/1093-statistics-from-a-large-sample) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
 |  |
