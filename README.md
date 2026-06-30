@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/ArPriCode/Leetcode_B/tree/master/0640-solve-the-equation) |
+| [1154-day-of-the-year](https://github.com/ArPriCode/Leetcode_B/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/ArPriCode/Leetcode_B/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-statistics-from-a-large-sample](https://github.com/ArPriCode/Leetcode_B/tree/master/1093-statistics-from-a-large-sample) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
+| [1154-day-of-the-year](https://github.com/ArPriCode/Leetcode_B/tree/master/1154-day-of-the-year) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Geometry
 |  |
