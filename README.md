@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ArPriCode/Leetcode_B/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0633-sum-of-square-numbers) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ArPriCode/Leetcode_B/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/ArPriCode/Leetcode_B/tree/master/0858-mirror-reflection) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/ArPriCode/Leetcode_B/tree/master/0640-solve-the-equation) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0628-maximum-product-of-three-numbers) |
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
 | [1288-remove-covered-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/1288-remove-covered-intervals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
 | ------- |
