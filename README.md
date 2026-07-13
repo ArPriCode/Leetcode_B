@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/ArPriCode/Leetcode_B/tree/master/1154-day-of-the-year) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1399-count-largest-group](https://github.com/ArPriCode/Leetcode_B/tree/master/1399-count-largest-group) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-statistics-from-a-large-sample](https://github.com/ArPriCode/Leetcode_B/tree/master/1093-statistics-from-a-large-sample) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/1288-remove-covered-intervals) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/ArPriCode/Leetcode_B/tree/master/1301-number-of-paths-with-max-score) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
