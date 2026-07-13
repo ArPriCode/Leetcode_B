@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/ArPriCode/Leetcode_B/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ArPriCode/Leetcode_B/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1399-count-largest-group](https://github.com/ArPriCode/Leetcode_B/tree/master/1399-count-largest-group) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/ArPriCode/Leetcode_B/tree/master/1301-number-of-paths-with-max-score) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ArPriCode/Leetcode_B/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ArPriCode/Leetcode_B/tree/master/2549-count-distinct-numbers-on-board) |
