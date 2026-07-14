@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0877-stone-game) |
 | [1033-moving-stones-until-consecutive](https://github.com/ArPriCode/Leetcode_B/tree/master/1033-moving-stones-until-consecutive) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1093-statistics-from-a-large-sample](https://github.com/ArPriCode/Leetcode_B/tree/master/1093-statistics-from-a-large-sample) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/ArPriCode/Leetcode_B/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0877-stone-game) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1093-statistics-from-a-large-sample](https://github.com/ArPriCode/Leetcode_B/tree/master/1093-statistics-from-a-large-sample) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/1288-remove-covered-intervals) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0628-maximum-product-of-three-numbers) |
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1288-remove-covered-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ArPriCode/Leetcode_B/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
