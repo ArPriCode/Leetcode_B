@@ -9,7 +9,8 @@ class Solution(object):
         mx = 0
 
         for x in nums:
-            mx = max(mx, x)
+            if x > mx:
+                mx = x
             prefixGcd.append(self.gcd(x, mx))
 
         prefixGcd.sort()
