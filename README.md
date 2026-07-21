@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/ArPriCode/Leetcode_B/tree/master/2162-minimum-cost-to-set-cooking-time) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Topological Sort
 |  |
 | ------- |
