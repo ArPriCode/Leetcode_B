@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0633-sum-of-square-numbers) |
 | [0640-solve-the-equation](https://github.com/ArPriCode/Leetcode_B/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/ArPriCode/Leetcode_B/tree/master/0650-2-keys-keyboard) |
+| [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
 | [0775-global-and-local-inversions](https://github.com/ArPriCode/Leetcode_B/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
 | [0858-mirror-reflection](https://github.com/ArPriCode/Leetcode_B/tree/master/0858-mirror-reflection) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArPriCode/Leetcode_B/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -332,10 +334,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/ArPriCode/Leetcode_B/tree/master/0477-total-hamming-distance) |
+| [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArPriCode/Leetcode_B/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Reservoir Sampling
 |  |
