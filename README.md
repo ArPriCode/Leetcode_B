@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/ArPriCode/Leetcode_B/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0877-stone-game) |
+| [0920-number-of-music-playlists](https://github.com/ArPriCode/Leetcode_B/tree/master/0920-number-of-music-playlists) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ArPriCode/Leetcode_B/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ArPriCode/Leetcode_B/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
+| [0920-number-of-music-playlists](https://github.com/ArPriCode/Leetcode_B/tree/master/0920-number-of-music-playlists) |
 | [1033-moving-stones-until-consecutive](https://github.com/ArPriCode/Leetcode_B/tree/master/1033-moving-stones-until-consecutive) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1093-statistics-from-a-large-sample](https://github.com/ArPriCode/Leetcode_B/tree/master/1093-statistics-from-a-large-sample) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/ArPriCode/Leetcode_B/tree/master/0458-poor-pigs) |
+| [0920-number-of-music-playlists](https://github.com/ArPriCode/Leetcode_B/tree/master/0920-number-of-music-playlists) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
 ## Rejection Sampling
