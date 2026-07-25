@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ArPriCode/Leetcode_B/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ArPriCode/Leetcode_B/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/1288-remove-covered-intervals) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ArPriCode/Leetcode_B/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
