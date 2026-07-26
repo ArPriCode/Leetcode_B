@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/ArPriCode/Leetcode_B/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
 | [0964-least-operators-to-express-number](https://github.com/ArPriCode/Leetcode_B/tree/master/0964-least-operators-to-express-number) |
+| [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [1033-moving-stones-until-consecutive](https://github.com/ArPriCode/Leetcode_B/tree/master/1033-moving-stones-until-consecutive) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1093-statistics-from-a-large-sample](https://github.com/ArPriCode/Leetcode_B/tree/master/1093-statistics-from-a-large-sample) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/ArPriCode/Leetcode_B/tree/master/0593-valid-square) |
 | [0858-mirror-reflection](https://github.com/ArPriCode/Leetcode_B/tree/master/0858-mirror-reflection) |
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
+| [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
 | [0932-beautiful-array](https://github.com/ArPriCode/Leetcode_B/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
+| [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1093-statistics-from-a-large-sample](https://github.com/ArPriCode/Leetcode_B/tree/master/1093-statistics-from-a-large-sample) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0932-beautiful-array](https://github.com/ArPriCode/Leetcode_B/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ArPriCode/Leetcode_B/tree/master/3620-network-recovery-pathways) |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
+| [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1288-remove-covered-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/1288-remove-covered-intervals) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -398,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0964-least-operators-to-express-number](https://github.com/ArPriCode/Leetcode_B/tree/master/0964-least-operators-to-express-number) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
