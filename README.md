@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-number-of-ways-to-split-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/ArPriCode/Leetcode_B/tree/master/2525-categorize-box-according-to-criteria) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ArPriCode/Leetcode_B/tree/master/2549-count-distinct-numbers-on-board) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/ArPriCode/Leetcode_B/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ArPriCode/Leetcode_B/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/ArPriCode/Leetcode_B/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ArPriCode/Leetcode_B/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
