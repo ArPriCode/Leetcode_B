@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ArPriCode/Leetcode_B/tree/master/0091-decode-ways) |
 | [0273-integer-to-english-words](https://github.com/ArPriCode/Leetcode_B/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/ArPriCode/Leetcode_B/tree/master/0316-remove-duplicate-letters) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ArPriCode/Leetcode_B/tree/master/0053-maximum-subarray) |
+| [0087-scramble-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ArPriCode/Leetcode_B/tree/master/0091-decode-ways) |
 | [0458-poor-pigs](https://github.com/ArPriCode/Leetcode_B/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
