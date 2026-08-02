@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/ArPriCode/Leetcode_B/tree/master/2549-count-distinct-numbers-on-board) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ArPriCode/Leetcode_B/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3848-check-digitorial-permutation](https://github.com/ArPriCode/Leetcode_B/tree/master/3848-check-digitorial-permutation) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0964-least-operators-to-express-number](https://github.com/ArPriCode/Leetcode_B/tree/master/0964-least-operators-to-express-number) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ArPriCode/Leetcode_B/tree/master/1301-number-of-paths-with-max-score) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ArPriCode/Leetcode_B/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/ArPriCode/Leetcode_B/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ArPriCode/Leetcode_B/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3518-smallest-palindromic-rearrangement-ii) |
