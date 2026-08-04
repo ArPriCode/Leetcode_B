@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/ArPriCode/Leetcode_B/tree/master/1690-stone-game-vii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2028-find-missing-observations](https://github.com/ArPriCode/Leetcode_B/tree/master/2028-find-missing-observations) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/ArPriCode/Leetcode_B/tree/master/1690-stone-game-vii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0894-all-possible-full-binary-trees) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Game Theory
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/ArPriCode/Leetcode_B/tree/master/1006-clumsy-factorial) |
 | [1041-robot-bounded-in-circle](https://github.com/ArPriCode/Leetcode_B/tree/master/1041-robot-bounded-in-circle) |
 | [1260-shift-2d-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2028-find-missing-observations](https://github.com/ArPriCode/Leetcode_B/tree/master/2028-find-missing-observations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ArPriCode/Leetcode_B/tree/master/2549-count-distinct-numbers-on-board) |
@@ -499,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
