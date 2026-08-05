@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/ArPriCode/Leetcode_B/tree/master/1041-robot-bounded-in-circle) |
 | [1093-statistics-from-a-large-sample](https://github.com/ArPriCode/Leetcode_B/tree/master/1093-statistics-from-a-large-sample) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/ArPriCode/Leetcode_B/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/ArPriCode/Leetcode_B/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1093-statistics-from-a-large-sample](https://github.com/ArPriCode/Leetcode_B/tree/master/1093-statistics-from-a-large-sample) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/ArPriCode/Leetcode_B/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/1288-remove-covered-intervals) |
