@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/ArPriCode/Leetcode_B/tree/master/1690-stone-game-vii) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ArPriCode/Leetcode_B/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/ArPriCode/Leetcode_B/tree/master/1690-stone-game-vii) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ArPriCode/Leetcode_B/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/ArPriCode/Leetcode_B/tree/master/1006-clumsy-factorial) |
 | [1041-robot-bounded-in-circle](https://github.com/ArPriCode/Leetcode_B/tree/master/1041-robot-bounded-in-circle) |
 | [1260-shift-2d-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/1260-shift-2d-grid) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ArPriCode/Leetcode_B/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2028-find-missing-observations](https://github.com/ArPriCode/Leetcode_B/tree/master/2028-find-missing-observations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2221-find-triangular-sum-of-an-array) |
