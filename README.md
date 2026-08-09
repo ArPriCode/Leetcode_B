@@ -570,5 +570,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1484-group-sold-products-by-the-date](https://github.com/ArPriCode/Leetcode_B/tree/master/1484-group-sold-products-by-the-date) |
 | [1693-daily-leads-and-partners](https://github.com/ArPriCode/Leetcode_B/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
