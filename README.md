@@ -567,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/ArPriCode/Leetcode_B/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
