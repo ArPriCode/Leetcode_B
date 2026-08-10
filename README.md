@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ArPriCode/Leetcode_B/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/ArPriCode/Leetcode_B/tree/master/1690-stone-game-vii) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ArPriCode/Leetcode_B/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ArPriCode/Leetcode_B/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ArPriCode/Leetcode_B/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/ArPriCode/Leetcode_B/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2396-strictly-palindromic-number) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ArPriCode/Leetcode_B/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ArPriCode/Leetcode_B/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2525-categorize-box-according-to-criteria](https://github.com/ArPriCode/Leetcode_B/tree/master/2525-categorize-box-according-to-criteria) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ArPriCode/Leetcode_B/tree/master/2549-count-distinct-numbers-on-board) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/ArPriCode/Leetcode_B/tree/master/0458-poor-pigs) |
 | [0920-number-of-music-playlists](https://github.com/ArPriCode/Leetcode_B/tree/master/0920-number-of-music-playlists) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ArPriCode/Leetcode_B/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Rejection Sampling
