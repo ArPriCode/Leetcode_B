@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ArPriCode/Leetcode_B/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ArPriCode/Leetcode_B/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ArPriCode/Leetcode_B/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/ArPriCode/Leetcode_B/tree/master/1690-stone-game-vii) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ArPriCode/Leetcode_B/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ArPriCode/Leetcode_B/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ArPriCode/Leetcode_B/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ArPriCode/Leetcode_B/tree/master/1510-stone-game-iv) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ArPriCode/Leetcode_B/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/ArPriCode/Leetcode_B/tree/master/1690-stone-game-vii) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ArPriCode/Leetcode_B/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0458-poor-pigs](https://github.com/ArPriCode/Leetcode_B/tree/master/0458-poor-pigs) |
 | [0920-number-of-music-playlists](https://github.com/ArPriCode/Leetcode_B/tree/master/0920-number-of-music-playlists) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ArPriCode/Leetcode_B/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ArPriCode/Leetcode_B/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
