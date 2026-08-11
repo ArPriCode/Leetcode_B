@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ArPriCode/Leetcode_B/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ArPriCode/Leetcode_B/tree/master/2549-count-distinct-numbers-on-board) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3044-most-frequent-prime](https://github.com/ArPriCode/Leetcode_B/tree/master/3044-most-frequent-prime) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ArPriCode/Leetcode_B/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ArPriCode/Leetcode_B/tree/master/2549-count-distinct-numbers-on-board) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3044-most-frequent-prime](https://github.com/ArPriCode/Leetcode_B/tree/master/3044-most-frequent-prime) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3534-path-existence-queries-in-a-graph-ii) |
