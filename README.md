@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ArPriCode/Leetcode_B/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ArPriCode/Leetcode_B/tree/master/0041-first-missing-positive) |
 | [0447-number-of-boomerangs](https://github.com/ArPriCode/Leetcode_B/tree/master/0447-number-of-boomerangs) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ArPriCode/Leetcode_B/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ArPriCode/Leetcode_B/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ArPriCode/Leetcode_B/tree/master/0053-maximum-subarray) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ArPriCode/Leetcode_B/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ArPriCode/Leetcode_B/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ArPriCode/Leetcode_B/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0679-24-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Primality Test
@@ -623,4 +627,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ArPriCode/Leetcode_B/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ArPriCode/Leetcode_B/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ArPriCode/Leetcode_B/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
