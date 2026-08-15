@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ArPriCode/Leetcode_B/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ArPriCode/Leetcode_B/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
 | [0447-number-of-boomerangs](https://github.com/ArPriCode/Leetcode_B/tree/master/0447-number-of-boomerangs) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ArPriCode/Leetcode_B/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/ArPriCode/Leetcode_B/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/ArPriCode/Leetcode_B/tree/master/0316-remove-duplicate-letters) |
 | [0640-solve-the-equation](https://github.com/ArPriCode/Leetcode_B/tree/master/0640-solve-the-equation) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ArPriCode/Leetcode_B/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ArPriCode/Leetcode_B/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/ArPriCode/Leetcode_B/tree/master/0221-maximal-square) |
 | [0458-poor-pigs](https://github.com/ArPriCode/Leetcode_B/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ArPriCode/Leetcode_B/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ArPriCode/Leetcode_B/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/ArPriCode/Leetcode_B/tree/master/0221-maximal-square) |
 | [0447-number-of-boomerangs](https://github.com/ArPriCode/Leetcode_B/tree/master/0447-number-of-boomerangs) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
 | [0894-all-possible-full-binary-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0894-all-possible-full-binary-trees) |
 | [0964-least-operators-to-express-number](https://github.com/ArPriCode/Leetcode_B/tree/master/0964-least-operators-to-express-number) |
 ## Quickselect
@@ -645,4 +650,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ArPriCode/Leetcode_B/tree/master/0037-sudoku-solver) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
