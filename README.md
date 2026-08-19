@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ArPriCode/Leetcode_B/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/ArPriCode/Leetcode_B/tree/master/0221-maximal-square) |
+| [0435-non-overlapping-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/ArPriCode/Leetcode_B/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0518-coin-change-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ArPriCode/Leetcode_B/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0307-range-sum-query-mutable) |
+| [0435-non-overlapping-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/0435-non-overlapping-intervals) |
 | [0447-number-of-boomerangs](https://github.com/ArPriCode/Leetcode_B/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/ArPriCode/Leetcode_B/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/ArPriCode/Leetcode_B/tree/master/0316-remove-duplicate-letters) |
+| [0435-non-overlapping-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/0435-non-overlapping-intervals) |
 | [0670-maximum-swap](https://github.com/ArPriCode/Leetcode_B/tree/master/0670-maximum-swap) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0628-maximum-product-of-three-numbers) |
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
