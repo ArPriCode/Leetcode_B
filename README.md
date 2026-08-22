@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ArPriCode/Leetcode_B/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/ArPriCode/Leetcode_B/tree/master/1690-stone-game-vii) |
 | [1774-closest-dessert-cost](https://github.com/ArPriCode/Leetcode_B/tree/master/1774-closest-dessert-cost) |
+| [1824-minimum-sideway-jumps](https://github.com/ArPriCode/Leetcode_B/tree/master/1824-minimum-sideway-jumps) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ArPriCode/Leetcode_B/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ArPriCode/Leetcode_B/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ArPriCode/Leetcode_B/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1824-minimum-sideway-jumps](https://github.com/ArPriCode/Leetcode_B/tree/master/1824-minimum-sideway-jumps) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ArPriCode/Leetcode_B/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ArPriCode/Leetcode_B/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
+| [1824-minimum-sideway-jumps](https://github.com/ArPriCode/Leetcode_B/tree/master/1824-minimum-sideway-jumps) |
 | [2029-stone-game-ix](https://github.com/ArPriCode/Leetcode_B/tree/master/2029-stone-game-ix) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/ArPriCode/Leetcode_B/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
