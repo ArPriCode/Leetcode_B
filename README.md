@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
 | [0957-prison-cells-after-n-days](https://github.com/ArPriCode/Leetcode_B/tree/master/0957-prison-cells-after-n-days) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ArPriCode/Leetcode_B/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/ArPriCode/Leetcode_B/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/ArPriCode/Leetcode_B/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ArPriCode/Leetcode_B/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0304-range-sum-query-2d-immutable) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ArPriCode/Leetcode_B/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ArPriCode/Leetcode_B/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ArPriCode/Leetcode_B/tree/master/1872-stone-game-viii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
 | [0957-prison-cells-after-n-days](https://github.com/ArPriCode/Leetcode_B/tree/master/0957-prison-cells-after-n-days) |
 | [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ArPriCode/Leetcode_B/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/ArPriCode/Leetcode_B/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/ArPriCode/Leetcode_B/tree/master/0997-find-the-town-judge) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ArPriCode/Leetcode_B/tree/master/1005-maximize-sum-of-array-after-k-negations) |
