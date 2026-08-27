@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/ArPriCode/Leetcode_B/tree/master/0447-number-of-boomerangs) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
+| [0923-3sum-with-multiplicity](https://github.com/ArPriCode/Leetcode_B/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/0930-binary-subarrays-with-sum) |
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
 | [0957-prison-cells-after-n-days](https://github.com/ArPriCode/Leetcode_B/tree/master/0957-prison-cells-after-n-days) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
+| [0923-3sum-with-multiplicity](https://github.com/ArPriCode/Leetcode_B/tree/master/0923-3sum-with-multiplicity) |
 | [1189-maximum-number-of-balloons](https://github.com/ArPriCode/Leetcode_B/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/ArPriCode/Leetcode_B/tree/master/1399-count-largest-group) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ArPriCode/Leetcode_B/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/ArPriCode/Leetcode_B/tree/master/0881-boats-to-save-people) |
+| [0923-3sum-with-multiplicity](https://github.com/ArPriCode/Leetcode_B/tree/master/0923-3sum-with-multiplicity) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2396-strictly-palindromic-number) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ArPriCode/Leetcode_B/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ArPriCode/Leetcode_B/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/ArPriCode/Leetcode_B/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/0930-binary-subarrays-with-sum) |
 | [0932-beautiful-array](https://github.com/ArPriCode/Leetcode_B/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
 | [0881-boats-to-save-people](https://github.com/ArPriCode/Leetcode_B/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/ArPriCode/Leetcode_B/tree/master/0923-3sum-with-multiplicity) |
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ArPriCode/Leetcode_B/tree/master/1005-maximize-sum-of-array-after-k-negations) |
