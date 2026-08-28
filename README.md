@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/ArPriCode/Leetcode_B/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/ArPriCode/Leetcode_B/tree/master/0923-3sum-with-multiplicity) |
+| [0962-maximum-width-ramp](https://github.com/ArPriCode/Leetcode_B/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/ArPriCode/Leetcode_B/tree/master/0969-pancake-sorting) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2396-strictly-palindromic-number) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/ArPriCode/Leetcode_B/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
 | [0957-prison-cells-after-n-days](https://github.com/ArPriCode/Leetcode_B/tree/master/0957-prison-cells-after-n-days) |
+| [0962-maximum-width-ramp](https://github.com/ArPriCode/Leetcode_B/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/ArPriCode/Leetcode_B/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArPriCode/Leetcode_B/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ArPriCode/Leetcode_B/tree/master/0316-remove-duplicate-letters) |
+| [0962-maximum-width-ramp](https://github.com/ArPriCode/Leetcode_B/tree/master/0962-maximum-width-ramp) |
 | [1006-clumsy-factorial](https://github.com/ArPriCode/Leetcode_B/tree/master/1006-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ArPriCode/Leetcode_B/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ArPriCode/Leetcode_B/tree/master/0316-remove-duplicate-letters) |
+| [0962-maximum-width-ramp](https://github.com/ArPriCode/Leetcode_B/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Memoization
 |  |
