@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2028-find-missing-observations](https://github.com/ArPriCode/Leetcode_B/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/ArPriCode/Leetcode_B/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ArPriCode/Leetcode_B/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/ArPriCode/Leetcode_B/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/ArPriCode/Leetcode_B/tree/master/1824-minimum-sideway-jumps) |
 | [1927-sum-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ArPriCode/Leetcode_B/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/ArPriCode/Leetcode_B/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ArPriCode/Leetcode_B/tree/master/2856-minimum-array-length-after-pair-removals) |
