@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/ArPriCode/Leetcode_B/tree/master/0587-erect-the-fence) |
 | [0605-can-place-flowers](https://github.com/ArPriCode/Leetcode_B/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ArPriCode/Leetcode_B/tree/master/0643-maximum-average-subarray-i) |
 | [0667-beautiful-arrangement-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0679-24-game) |
 | [0775-global-and-local-inversions](https://github.com/ArPriCode/Leetcode_B/tree/master/0775-global-and-local-inversions) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ArPriCode/Leetcode_B/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/0930-binary-subarrays-with-sum) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ArPriCode/Leetcode_B/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
