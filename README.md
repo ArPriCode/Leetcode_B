@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/ArPriCode/Leetcode_B/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/ArPriCode/Leetcode_B/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ArPriCode/Leetcode_B/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1927-sum-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ArPriCode/Leetcode_B/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ArPriCode/Leetcode_B/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ArPriCode/Leetcode_B/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArPriCode/Leetcode_B/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
