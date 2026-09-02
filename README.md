@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3848-check-digitorial-permutation](https://github.com/ArPriCode/Leetcode_B/tree/master/3848-check-digitorial-permutation) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ArPriCode/Leetcode_B/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3875-construct-uniform-parity-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/ArPriCode/Leetcode_B/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
