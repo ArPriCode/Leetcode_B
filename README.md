@@ -517,12 +517,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0427-construct-quad-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0437-path-sum-iii) |
+| [0872-leaf-similar-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0894-all-possible-full-binary-trees) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0437-path-sum-iii) |
+| [0872-leaf-similar-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0894-all-possible-full-binary-trees) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Probability and Statistics
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0437-path-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0437-path-sum-iii) |
 | [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
+| [0872-leaf-similar-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0872-leaf-similar-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArPriCode/Leetcode_B/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/ArPriCode/Leetcode_B/tree/master/3310-remove-methods-from-project) |
 ## Reservoir Sampling
