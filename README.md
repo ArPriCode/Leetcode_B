@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ArPriCode/Leetcode_B/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/ArPriCode/Leetcode_B/tree/master/2336-smallest-number-in-infinite-set) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ArPriCode/Leetcode_B/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ArPriCode/Leetcode_B/tree/master/2549-count-distinct-numbers-on-board) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ArPriCode/Leetcode_B/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
+| [2336-smallest-number-in-infinite-set](https://github.com/ArPriCode/Leetcode_B/tree/master/2336-smallest-number-in-infinite-set) |
 | [2542-maximum-subsequence-score](https://github.com/ArPriCode/Leetcode_B/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ArPriCode/Leetcode_B/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2336-smallest-number-in-infinite-set](https://github.com/ArPriCode/Leetcode_B/tree/master/2336-smallest-number-in-infinite-set) |
 ## Brainteaser
 |  |
 | ------- |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0307-range-sum-query-mutable) |
+| [2336-smallest-number-in-infinite-set](https://github.com/ArPriCode/Leetcode_B/tree/master/2336-smallest-number-in-infinite-set) |
 ## Binary Indexed Tree
 |  |
 | ------- |
