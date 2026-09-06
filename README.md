@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ArPriCode/Leetcode_B/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/ArPriCode/Leetcode_B/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/ArPriCode/Leetcode_B/tree/master/0273-integer-to-english-words) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ArPriCode/Leetcode_B/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ArPriCode/Leetcode_B/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/ArPriCode/Leetcode_B/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ArPriCode/Leetcode_B/tree/master/0221-maximal-square) |
