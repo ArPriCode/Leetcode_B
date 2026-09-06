@@ -732,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ArPriCode/Leetcode_B/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/ArPriCode/Leetcode_B/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/ArPriCode/Leetcode_B/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/ArPriCode/Leetcode_B/tree/master/0962-maximum-width-ramp) |
 | [1006-clumsy-factorial](https://github.com/ArPriCode/Leetcode_B/tree/master/1006-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ArPriCode/Leetcode_B/tree/master/0316-remove-duplicate-letters) |
+| [0901-online-stock-span](https://github.com/ArPriCode/Leetcode_B/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/ArPriCode/Leetcode_B/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Memoization
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0307-range-sum-query-mutable) |
+| [0901-online-stock-span](https://github.com/ArPriCode/Leetcode_B/tree/master/0901-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ArPriCode/Leetcode_B/tree/master/2336-smallest-number-in-infinite-set) |
 ## Binary Indexed Tree
 |  |
@@ -880,4 +883,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/ArPriCode/Leetcode_B/tree/master/0334-increasing-triplet-subsequence) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ArPriCode/Leetcode_B/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
