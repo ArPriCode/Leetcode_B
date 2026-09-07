@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ArPriCode/Leetcode_B/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/ArPriCode/Leetcode_B/tree/master/0316-remove-duplicate-letters) |
 | [0640-solve-the-equation](https://github.com/ArPriCode/Leetcode_B/tree/master/0640-solve-the-equation) |
+| [0940-distinct-subsequences-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/ArPriCode/Leetcode_B/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ArPriCode/Leetcode_B/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0894-all-possible-full-binary-trees) |
 | [0920-number-of-music-playlists](https://github.com/ArPriCode/Leetcode_B/tree/master/0920-number-of-music-playlists) |
+| [0940-distinct-subsequences-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0940-distinct-subsequences-ii) |
 | [0964-least-operators-to-express-number](https://github.com/ArPriCode/Leetcode_B/tree/master/0964-least-operators-to-express-number) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ArPriCode/Leetcode_B/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
