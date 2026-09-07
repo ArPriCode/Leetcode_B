@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/ArPriCode/Leetcode_B/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/ArPriCode/Leetcode_B/tree/master/1189-maximum-number-of-balloons) |
+| [1268-search-suggestions-system](https://github.com/ArPriCode/Leetcode_B/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ArPriCode/Leetcode_B/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0633-sum-of-square-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/ArPriCode/Leetcode_B/tree/master/1268-search-suggestions-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ArPriCode/Leetcode_B/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ArPriCode/Leetcode_B/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1131-maximum-of-absolute-value-expression](https://github.com/ArPriCode/Leetcode_B/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/1260-shift-2d-grid) |
+| [1268-search-suggestions-system](https://github.com/ArPriCode/Leetcode_B/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/ArPriCode/Leetcode_B/tree/master/1301-number-of-paths-with-max-score) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
+| [1268-search-suggestions-system](https://github.com/ArPriCode/Leetcode_B/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ArPriCode/Leetcode_B/tree/master/2336-smallest-number-in-infinite-set) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ArPriCode/Leetcode_B/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1268-search-suggestions-system](https://github.com/ArPriCode/Leetcode_B/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ArPriCode/Leetcode_B/tree/master/1657-determine-if-two-strings-are-close) |
@@ -841,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
+| [1268-search-suggestions-system](https://github.com/ArPriCode/Leetcode_B/tree/master/1268-search-suggestions-system) |
 ## Brute-Force Search
 |  |
 | ------- |
