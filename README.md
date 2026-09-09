@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ArPriCode/Leetcode_B/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArPriCode/Leetcode_B/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ArPriCode/Leetcode_B/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArPriCode/Leetcode_B/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ArPriCode/Leetcode_B/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/ArPriCode/Leetcode_B/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArPriCode/Leetcode_B/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/ArPriCode/Leetcode_B/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
 | [0872-leaf-similar-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0872-leaf-similar-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArPriCode/Leetcode_B/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
