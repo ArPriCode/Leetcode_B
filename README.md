@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0427-construct-quad-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0872-leaf-similar-trees) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/ArPriCode/Leetcode_B/tree/master/0894-all-possible-full-binary-trees) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/ArPriCode/Leetcode_B/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
@@ -916,4 +919,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ArPriCode/Leetcode_B/tree/master/0901-online-stock-span) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
