@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ArPriCode/Leetcode_B/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ArPriCode/Leetcode_B/tree/master/0287-find-the-duplicate-number) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ArPriCode/Leetcode_B/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/ArPriCode/Leetcode_B/tree/master/0162-find-peak-element) |
 | [0213-house-robber-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/ArPriCode/Leetcode_B/tree/master/0221-maximal-square) |
