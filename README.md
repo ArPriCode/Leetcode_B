@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/ArPriCode/Leetcode_B/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/ArPriCode/Leetcode_B/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0307-range-sum-query-mutable) |
 | [0901-online-stock-span](https://github.com/ArPriCode/Leetcode_B/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/ArPriCode/Leetcode_B/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ArPriCode/Leetcode_B/tree/master/2336-smallest-number-in-infinite-set) |
 ## Binary Indexed Tree
 |  |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ArPriCode/Leetcode_B/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/ArPriCode/Leetcode_B/tree/master/0933-number-of-recent-calls) |
 ## Binary Lifting
 |  |
 | ------- |
