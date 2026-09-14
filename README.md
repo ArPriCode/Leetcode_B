@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/ArPriCode/Leetcode_B/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/ArPriCode/Leetcode_B/tree/master/0316-remove-duplicate-letters) |
+| [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 | [0640-solve-the-equation](https://github.com/ArPriCode/Leetcode_B/tree/master/0640-solve-the-equation) |
 | [0649-dota2-senate](https://github.com/ArPriCode/Leetcode_B/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0940-distinct-subsequences-ii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0307-range-sum-query-mutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/ArPriCode/Leetcode_B/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ArPriCode/Leetcode_B/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
 | [0841-keys-and-rooms](https://github.com/ArPriCode/Leetcode_B/tree/master/0841-keys-and-rooms) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ArPriCode/Leetcode_B/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArPriCode/Leetcode_B/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ArPriCode/Leetcode_B/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ArPriCode/Leetcode_B/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/ArPriCode/Leetcode_B/tree/master/0997-find-the-town-judge) |
@@ -717,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ArPriCode/Leetcode_B/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
@@ -749,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/ArPriCode/Leetcode_B/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
@@ -949,4 +956,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
