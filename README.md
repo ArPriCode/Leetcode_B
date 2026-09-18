@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ArPriCode/Leetcode_B/tree/master/1386-cinema-seat-allocation) |
 | [1399-count-largest-group](https://github.com/ArPriCode/Leetcode_B/tree/master/1399-count-largest-group) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ArPriCode/Leetcode_B/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/ArPriCode/Leetcode_B/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ArPriCode/Leetcode_B/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ArPriCode/Leetcode_B/tree/master/1657-determine-if-two-strings-are-close) |
 | [1927-sum-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1927-sum-game) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ArPriCode/Leetcode_B/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ArPriCode/Leetcode_B/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [1824-minimum-sideway-jumps](https://github.com/ArPriCode/Leetcode_B/tree/master/1824-minimum-sideway-jumps) |
 | [1927-sum-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1927-sum-game) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/ArPriCode/Leetcode_B/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ArPriCode/Leetcode_B/tree/master/1657-determine-if-two-strings-are-close) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2165-smallest-value-of-the-rearranged-number) |
