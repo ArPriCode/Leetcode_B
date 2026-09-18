@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 | [0640-solve-the-equation](https://github.com/ArPriCode/Leetcode_B/tree/master/0640-solve-the-equation) |
 | [0649-dota2-senate](https://github.com/ArPriCode/Leetcode_B/tree/master/0649-dota2-senate) |
+| [0844-backspace-string-compare](https://github.com/ArPriCode/Leetcode_B/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/ArPriCode/Leetcode_B/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ArPriCode/Leetcode_B/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/ArPriCode/Leetcode_B/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/ArPriCode/Leetcode_B/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/ArPriCode/Leetcode_B/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/ArPriCode/Leetcode_B/tree/master/0923-3sum-with-multiplicity) |
 | [0962-maximum-width-ramp](https://github.com/ArPriCode/Leetcode_B/tree/master/0962-maximum-width-ramp) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0640-solve-the-equation](https://github.com/ArPriCode/Leetcode_B/tree/master/0640-solve-the-equation) |
 | [0735-asteroid-collision](https://github.com/ArPriCode/Leetcode_B/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/ArPriCode/Leetcode_B/tree/master/0844-backspace-string-compare) |
 | [1006-clumsy-factorial](https://github.com/ArPriCode/Leetcode_B/tree/master/1006-clumsy-factorial) |
 | [1041-robot-bounded-in-circle](https://github.com/ArPriCode/Leetcode_B/tree/master/1041-robot-bounded-in-circle) |
 | [1260-shift-2d-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/1260-shift-2d-grid) |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ArPriCode/Leetcode_B/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ArPriCode/Leetcode_B/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/ArPriCode/Leetcode_B/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/ArPriCode/Leetcode_B/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/ArPriCode/Leetcode_B/tree/master/0962-maximum-width-ramp) |
 | [1006-clumsy-factorial](https://github.com/ArPriCode/Leetcode_B/tree/master/1006-clumsy-factorial) |
