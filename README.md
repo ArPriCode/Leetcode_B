@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ArPriCode/Leetcode_B/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1399-count-largest-group](https://github.com/ArPriCode/Leetcode_B/tree/master/1399-count-largest-group) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ArPriCode/Leetcode_B/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ArPriCode/Leetcode_B/tree/master/1510-stone-game-iv) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/ArPriCode/Leetcode_B/tree/master/0858-mirror-reflection) |
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ArPriCode/Leetcode_B/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ArPriCode/Leetcode_B/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Two Pointers
 |  |
