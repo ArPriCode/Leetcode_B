@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0633-sum-of-square-numbers) |
 | [0838-push-dominoes](https://github.com/ArPriCode/Leetcode_B/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/ArPriCode/Leetcode_B/tree/master/0844-backspace-string-compare) |
+| [0870-advantage-shuffle](https://github.com/ArPriCode/Leetcode_B/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/ArPriCode/Leetcode_B/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/ArPriCode/Leetcode_B/tree/master/0923-3sum-with-multiplicity) |
 | [0962-maximum-width-ramp](https://github.com/ArPriCode/Leetcode_B/tree/master/0962-maximum-width-ramp) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ArPriCode/Leetcode_B/tree/master/0739-daily-temperatures) |
 | [0775-global-and-local-inversions](https://github.com/ArPriCode/Leetcode_B/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
+| [0870-advantage-shuffle](https://github.com/ArPriCode/Leetcode_B/tree/master/0870-advantage-shuffle) |
 | [0877-stone-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ArPriCode/Leetcode_B/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ArPriCode/Leetcode_B/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArPriCode/Leetcode_B/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
+| [0870-advantage-shuffle](https://github.com/ArPriCode/Leetcode_B/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/ArPriCode/Leetcode_B/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
 | [0969-pancake-sorting](https://github.com/ArPriCode/Leetcode_B/tree/master/0969-pancake-sorting) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArPriCode/Leetcode_B/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0628-maximum-product-of-three-numbers) |
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
+| [0870-advantage-shuffle](https://github.com/ArPriCode/Leetcode_B/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/ArPriCode/Leetcode_B/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/ArPriCode/Leetcode_B/tree/master/0923-3sum-with-multiplicity) |
