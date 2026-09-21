@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ArPriCode/Leetcode_B/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ArPriCode/Leetcode_B/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/ArPriCode/Leetcode_B/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3649-number-of-perfect-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3649-number-of-perfect-pairs) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ArPriCode/Leetcode_B/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ArPriCode/Leetcode_B/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/ArPriCode/Leetcode_B/tree/master/3620-network-recovery-pathways) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/ArPriCode/Leetcode_B/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3649-number-of-perfect-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3649-number-of-perfect-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ArPriCode/Leetcode_B/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ArPriCode/Leetcode_B/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ArPriCode/Leetcode_B/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/ArPriCode/Leetcode_B/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ArPriCode/Leetcode_B/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Tree
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ArPriCode/Leetcode_B/tree/master/3620-network-recovery-pathways) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/ArPriCode/Leetcode_B/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Matrix
 |  |
 | ------- |
@@ -739,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/3536-maximum-product-of-two-digits) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/ArPriCode/Leetcode_B/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3649-number-of-perfect-pairs](https://github.com/ArPriCode/Leetcode_B/tree/master/3649-number-of-perfect-pairs) |
 | [3731-find-missing-elements](https://github.com/ArPriCode/Leetcode_B/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ArPriCode/Leetcode_B/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
