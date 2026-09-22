@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/ArPriCode/Leetcode_B/tree/master/1657-determine-if-two-strings-are-close) |
 | [1927-sum-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1927-sum-game) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ArPriCode/Leetcode_B/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/ArPriCode/Leetcode_B/tree/master/1023-camelcase-matching) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2396-strictly-palindromic-number) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ArPriCode/Leetcode_B/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ArPriCode/Leetcode_B/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ArPriCode/Leetcode_B/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1872-stone-game-viii](https://github.com/ArPriCode/Leetcode_B/tree/master/1872-stone-game-viii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ArPriCode/Leetcode_B/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
