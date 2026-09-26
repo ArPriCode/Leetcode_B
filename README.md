@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ArPriCode/Leetcode_B/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ArPriCode/Leetcode_B/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/ArPriCode/Leetcode_B/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1872-stone-game-viii](https://github.com/ArPriCode/Leetcode_B/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ArPriCode/Leetcode_B/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/ArPriCode/Leetcode_B/tree/master/0986-interval-list-intersections) |
 | [1023-camelcase-matching](https://github.com/ArPriCode/Leetcode_B/tree/master/1023-camelcase-matching) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/ArPriCode/Leetcode_B/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ArPriCode/Leetcode_B/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1813-sentence-similarity-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/1813-sentence-similarity-iii) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/ArPriCode/Leetcode_B/tree/master/1268-search-suggestions-system) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ArPriCode/Leetcode_B/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/ArPriCode/Leetcode_B/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ArPriCode/Leetcode_B/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ArPriCode/Leetcode_B/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ArPriCode/Leetcode_B/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/ArPriCode/Leetcode_B/tree/master/1690-stone-game-vii) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/ArPriCode/Leetcode_B/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1774-closest-dessert-cost](https://github.com/ArPriCode/Leetcode_B/tree/master/1774-closest-dessert-cost) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ArPriCode/Leetcode_B/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
